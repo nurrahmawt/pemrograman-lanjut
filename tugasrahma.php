@@ -1,5 +1,5 @@
 <?php
-// Nama: Rizky Juniardi
+// Nama: Nur Rahmawati
 // Kelas: 5TI - P2
 // Matkul: Pemrograman Lanjut
 
